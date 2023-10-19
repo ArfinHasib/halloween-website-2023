@@ -162,6 +162,9 @@ img {
 }
 
 /* Change background header */
+.scroll-header {
+   background-color: var(--black-color);
+}
 
 /*=============== HOME ===============*/
 .home {
@@ -390,7 +393,7 @@ img {
       bottom: -3rem;
    }
    .home__titles {
-      bottom: 31rem;
+      bottom: 40rem;
    }
    .home__subtitle {
       font-size: var(--big-font-size);
